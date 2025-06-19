@@ -18,8 +18,8 @@ Este projeto consiste em um dashboard analítico de vendas globais desenvolvido 
 
 ## 📁 Arquivos
 
-- ``: Arquivo do Power BI com o projeto completo
-- ``: Dados utilizados 
+- [`Dashboard_VendasGlobais.pbix`](https://raw.githubusercontent.com/AliciaKathleen/dashboard-vendas-globais/refs/heads/main/Dashboard_VendasGlobais.pbix): Arquivo do Power BI com o projeto completo  
+[`dataset.csv`](https://raw.githubusercontent.com/AliciaKathleen/dashboard-vendas-globais/refs/heads/main/dataset.csv): Base de dados utilizada na construção do dashboard
 
 ## 🚀 Ferramentas Utilizadas
 
@@ -27,3 +27,7 @@ Este projeto consiste em um dashboard analítico de vendas globais desenvolvido 
 - Power Query
 - DAX
 
+##
+
+📌 **Licença**: Este projeto é de uso educacional e demonstração.  
+📬 Em caso de dúvidas ou sugestões, entre em contato por contatoaliciakathleen@gmail.com.
